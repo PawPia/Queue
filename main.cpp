@@ -69,7 +69,7 @@ int main() {
             case 6:
                 return 0;
             default:
-                printf("Wybierz wlasciwa opcje.\n\n");
+                printf("Pick the right option\n");
                 break;
         }
     }

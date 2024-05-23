@@ -33,7 +33,6 @@ int first(void)
     {
         return queue_table[r_i];
     }
-
     return 0;
 }
 
